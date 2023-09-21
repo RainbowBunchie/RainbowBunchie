@@ -1,7 +1,6 @@
 
 - 👋 Hi, I’m @RainbowBunchie
 - 👀 I’m interested in coding, gaming & art 
-- 🔭 I’m currently working on an updated portfolio page 
 
 <!--
 **RainbowBunchie/RainbowBunchie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
